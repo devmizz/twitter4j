@@ -25,4 +25,6 @@ hs_err_pid*
 
 pom.xml
 twitter4j.properties
+.idea/
+target/
 
