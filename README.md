@@ -8,6 +8,6 @@ twitter4j 오픈소스를 이용
 
 유저 프로필로 이동시키는 링크 존재
 
-
+<a href = "https://twitter4j.org/ko/">twitter4j</a>
 
 java swing을 이용하여 GUI 구현
